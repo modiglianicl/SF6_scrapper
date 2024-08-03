@@ -27,7 +27,7 @@ I added a CSV file so you can see how the data is stored.
 I will make sure to keep it working, if it fails and you know what to do check the css classes on the page and put them on the sf6_scrapper if you know what you are doing, they change from time to time!
 
 ## Next Versions
-Error handling, more filters (how many pages, which character,etc),class auto detecting, auto general analysis.
+Error handling, more filters (how many pages, which character,etc),class auto detecting, code commented in english, auto general analysis.
 
 ## Feedback
 If you want to give me feedback you can contact me on : <br />
