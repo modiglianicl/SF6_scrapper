@@ -1,5 +1,5 @@
 # SF6 Buckler's Bootcamp webscrapper v.0.1
-Lunch app.py and by default it will scrap all MR rankings from South America, change the number depending on your continent \n
+Lunch app.py and by default it will scrap all MR rankings from South America, change the number depending on your continent <br />
 EVERY CONTINENT = 0 <br />
 AFRICA = 1 <br />
 ASIA = 2 <br />
