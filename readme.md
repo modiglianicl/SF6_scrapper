@@ -31,6 +31,6 @@ Error handling, more filters (how many pages, which character,etc),class auto de
 
 ## Feedback
 If you want to give me feedback you can contact me on : <br />
-Discord : modigliani
+Discord : modigliani <br />
 Steam : https://steamcommunity.com/id/haagendaszcl/
 
