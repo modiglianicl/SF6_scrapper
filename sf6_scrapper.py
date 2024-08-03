@@ -58,7 +58,7 @@ def buckler_scrap(continente):
 
     # Preparamos DataFrame a llenar junto al archivo
     df = pd.DataFrame(columns=["jugador","cfn_id","personaje","pais","mr","continente"])
-    df.to_csv("./db_sf6_sudamerica_mr.csv",index=False,header=True)
+    df.to_csv("./db_sf6_mr.csv",index=False,header=True)
 
     # Iteramos sobre todas las paginas para obtener todo
     for i in range(1,paginas_totales):
